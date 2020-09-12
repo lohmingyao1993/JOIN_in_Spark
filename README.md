@@ -1,14 +1,15 @@
 # JOIN_in_Spark
 
-##Requirements
+## Requirements
 
-*Cloudera VM
+* Cloudera VM
 
 ## Setup
 
 Open a terminal in the VM and install Ipython:
-'''bash
+
+```bash
 sudo yum install python-ipython
-'''
+```
 
 
